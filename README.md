@@ -1,1 +1,1 @@
-I'm Kevin, a computational biologist :computer: working on single-cell and data analysis.
+I'm Kevin, a computational biologist working on single-cell and data analysis.
