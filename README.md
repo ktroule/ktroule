@@ -1,1 +1,4 @@
-I'm Kevin, a computational biologist applying statistcal learning approches to the styudy single-cell data.
+I'm Kevin, a computational biologist:
+- 📖 Applying statistcal learning approches to the styudy single-cell data.
+- 📊 Data visualization for result representation.
+- 💊 Drug repurporsing employing transcriptomic data.
