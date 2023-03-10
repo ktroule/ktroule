@@ -1,1 +1,1 @@
-I'm Kevin, a computational biologist working on single-cell and data analysis.
+I'm Kevin, a computational biologist applying statistcal learning approches to the styudy single-cell data.
