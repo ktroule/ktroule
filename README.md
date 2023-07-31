@@ -3,4 +3,4 @@ I'm a computational biologist:
 - 📊 Data visualization for result representation.
 - 💊 Drug repurporsing employing transcriptomic data.
 - 📍 Learning pipeline development.
-- 🧠 Learning deep learning.
+- 🧠 Interest in deep learning and bayesian inference.
